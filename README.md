@@ -28,6 +28,7 @@ The idea is to expand the course over time, so there is no scope which is set in
  - B42CD: Putting content on discs
  - B42NO: Monetization
  - B42SD: Distribution
+
 There are not ordered in any capacity yet.
 
 ## Credits
