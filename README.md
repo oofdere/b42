@@ -1,5 +1,5 @@
 # Broadcasting 42: Intro to Independent Broadcasting and Media Conquest techniques
-Welcome to Broadcasting 42, my introduction to the bullshit enterprises of broadcasting and the media industry, and how to avoid it.
+Welcome to Broadcasting 42, my introduction to the enterprises of broadcasting and the media industry.
 
 ## Prerequisites
 Depends entirely on the parts of the course you are doing. You should be able to use a computer well enough to make your way to this webpage on your own, and should have a decently modern computer. You're on your own if technical issues arise, as you would be on the field.
